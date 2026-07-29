@@ -1,0 +1,6 @@
+{
+  "name": "Waqar Coaching Institute",
+  "description": "Comprehensive coaching institute management app featuring student directory, fee processing, attendance tracking, marks & report cards, auto receipts, notifications, reports, and admin backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
